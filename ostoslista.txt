@@ -13,7 +13,7 @@ kello
 kilo
 peruna
 auto
-maito
+piimä
 karkki
 herkku
 
